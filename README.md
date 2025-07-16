@@ -42,7 +42,7 @@
 ## 🌐 Live Demo 
 
 > Go through the hosted Application  
-> IP: `http://23.20.160.238:5000`
+> IP: `http://3.238.247.27:5000`
 ```
 ---
 ```bash
@@ -188,5 +188,5 @@ flask run
 
 ## 👨‍💻 Author
 
-**Developed by:** [@SAGAR](https://github.com/sagar25k)  
-📧 **Contact:** `sagarkanithi@example.com`
+**Developed by:** [@SAGAR](https://github.com/Tejesh-jagu/MedTrack)  
+📧 **Contact:** `tejeshjagu@gmail.com`
